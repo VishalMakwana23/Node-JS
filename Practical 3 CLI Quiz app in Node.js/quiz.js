@@ -4,7 +4,7 @@ const chalk = require('chalk');
 // global varibale to keep  socre
 var score = 0;
 
-console.log(chalk.green.bold('\n Welcome to The Game!!!\n'));
+console.log(chalk.green.bold('\n Welcome to The Money heist Quiz Game!!!\n'));
 
 // user input
 var playerName = rs.question("Hey  What is your name? : ")   
